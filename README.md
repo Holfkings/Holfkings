@@ -22,7 +22,7 @@
 `HTML5` · `CSS3` · `JavaScript` · `WordPress` · `Python` · `Flask` · `Git` · `SEO`
 
 ## 📫 ¿Hablamos?
-- WhatsApp: [57XXXXXXXXXX](https://wa.me/57XXXXXXXXXX)
+- WhatsApp: [573155576332](https://wa.me/573155576332)
 - GitHub: [@Holfkings](https://github.com/Holfkings)
 - Instagram (joyería): [@santjoyas18k](https://www.instagram.com/santjoyas18k/)
 
