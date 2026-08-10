@@ -14,6 +14,10 @@
 
 ## 💼 Proyectos reales
 
+### Portafolio personal
+Mi vitrina como freelancer: sitio premium en HTML/CSS/JS, 100% responsive y con animaciones sutiles.
+[Ver sitio →](https://holfkings.github.io/portafolio-site/)
+
 ### CEGESAN — Institución Educativa
 Sitio institucional migrado de Wix a sitio propio con SEO técnico y datos estructurados.
 [Ver sitio →](https://holfkings.github.io/cegesan-site/)
@@ -25,7 +29,8 @@ Sitio institucional migrado de Wix a sitio propio con SEO técnico y datos estru
 
 ## 📫 ¿Hablamos?
 - GitHub: [@Holfkings](https://github.com/Holfkings)
-- LinkedIn / portafolio: _(agrega tu enlace)_
+- LinkedIn: _(agrega tu enlace)_
+- Portafolio: [holfkings.github.io/portafolio-site](https://holfkings.github.io/portafolio-site/)
 
 ---
 ⚡ Disponible para nuevos proyectos. Precios introductorios a cambio de tu reseña.
