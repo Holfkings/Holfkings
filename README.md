@@ -13,16 +13,24 @@
 - **Rediseño** de sitios en Wix/plataformas cerradas para recuperar el control.
 
 ## 💼 Proyectos reales
-| Proyecto | Descripción | Demo |
-|----------|-------------|------|
-| **CEGESAN** | Sitio institucional para colegio en Cúcuta. Migración de Wix a sitio propio con SEO. | [Ver sitio](https://holfkings.github.io/cegesan-site/) |
-| **Sant Joyas 18k** | Joyería de oro laminado 18k. Catálogo real conectado a Instagram y WhatsApp. | [Ver sitio](https://holfkings.github.io/santjoyas-site/) |
+
+### Sant Joyas 18k — Joyería en oro laminado
+Catálogo real conectado a Instagram y WhatsApp, estética de lujo oro-sobre-negro.
+[Ver sitio →](https://holfkings.github.io/santjoyas-site/)
+
+![Sant Joyas 18k](assets/santjoyas.jpg)
+
+### CEGESAN — Institución Educativa
+Sitio institucional migrado de Wix a sitio propio con SEO técnico y datos estructurados.
+[Ver sitio →](https://holfkings.github.io/cegesan-site/)
+
+![CEGESAN](assets/cegesan.jpg)
 
 ## 🛠️ Stack
 `HTML5` · `CSS3` · `JavaScript` · `WordPress` · `Python` · `Flask` · `Git` · `SEO`
 
 ## 📫 ¿Hablamos?
-- WhatsApp: [573155576332](https://wa.me/573155576332)
+- WhatsApp: [315 557 6332](https://wa.me/573155576332)
 - GitHub: [@Holfkings](https://github.com/Holfkings)
 - Instagram (joyería): [@santjoyas18k](https://www.instagram.com/santjoyas18k/)
 
