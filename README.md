@@ -24,7 +24,11 @@ Sitio institucional migrado de Wix a sitio propio con SEO técnico y datos estru
 
 ![CEGESAN](assets/cegesan.jpg)
 
-## 🛠️ Stack
+### Auditoría Web Gratuita — embudo de captación
+Landing que invita a dueños de negocios a pedir una auditoría gratis; captura el lead (nombre, email, web) y lo envía directo a WhatsApp.
+[Probar la auditoría →](https://holfkings.github.io/auditoria-web/)
+
+
 `HTML5` · `CSS3` · `JavaScript` · `WordPress` · `Python` · `Flask` · `Git` · `SEO`
 
 ## 📫 ¿Hablamos?
