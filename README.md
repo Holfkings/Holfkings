@@ -75,6 +75,7 @@ Landing que invita a dueños de negocios a pedir una auditoría gratis; captura 
 _Mejoro mi stack según lo que piden las propuestas reales (Python, React, Django, APIs, automatización, bots)._
 
 ## 📫 ¿Hablamos?
+- LinkedIn: [https://www.linkedin.com/in/holfkings-arenas-b820aa361/](https://www.linkedin.com/in/holfkings-arenas-b820aa361/)
 
 - GitHub: [@Holfkings](https://github.com/Holfkings)
 
