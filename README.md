@@ -66,9 +66,10 @@ Landing que invita a dueños de negocios a pedir una auditoría gratis; captura 
 
 
 
+
 ## 📦 Reto #100Días — Proyectos por stack demandado
 
-- **python-cli** — [ver repo](https://github.com/Holfkings/day-002-python-cli)
+- **python-cli** — [ver repo](https://github.com/Holfkings/day-001-python-cli)
 - **flask-api** — [ver repo](https://github.com/Holfkings/day-002-flask-api)
 
 _Mejoro mi stack según lo que piden las propuestas reales (Python, React, Django, APIs, automatización, bots)._
