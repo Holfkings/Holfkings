@@ -31,6 +31,11 @@ Landing que invita a dueños de negocios a pedir una auditoría gratis; captura 
 
 `HTML5` · `CSS3` · `JavaScript` · `WordPress` · `Python` · `Flask` · `Git` · `SEO`
 
+## 📦 Reto #100Días — Proyectos por stack demandado
+
+- **python-cli** — [ver repo](https://github.com/Holfkings/day-001-python-cli)
+
+_Mejoro mi stack segun lo que piden las propuestas reales (Python, React, Django, APIs, automatizacion, bots)._
 ## 📫 ¿Hablamos?
 - GitHub: [@Holfkings](https://github.com/Holfkings)
 - LinkedIn: _(agrega tu enlace)_
