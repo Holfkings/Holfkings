@@ -79,7 +79,6 @@ _Mejoro mi stack según lo que piden las propuestas reales (Python, React, Djang
 
 - GitHub: [@Holfkings](https://github.com/Holfkings)
 
-- LinkedIn: _(agrega tu enlace)_
 
 - Portafolio: [holfkings.github.io/portafolio-site](https://holfkings.github.io/portafolio-site/)
 
