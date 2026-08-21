@@ -38,7 +38,10 @@ Landing de captación de leads enviados a WhatsApp.
 
 `HTML5` · `CSS3` · `JavaScript` · `Python` · `Django` · `Flask` · `FastAPI` · `React` · `SQLite` · `PostgreSQL` · `Git` · `SEO`
 
-## 🛒 Productos digitales (Holfkings en Payhip)
+## 🌐 Webs para negocios sin página
+¿Tienes un negocio y aún no estás en internet? Te hago una DEMO gratis de cómo quedaría tu sitio. Ejemplo real (restaurante):
+[Ver demo en vivo →](https://holfkings.github.io/web-demo-restaurante/)
+Sitio premium, responsive, con menú / reservas / contacto. Precio solo si te interesa.
 - [Dashboard Starter — plantilla full-stack React + FastAPI ($19)](https://payhip.com/b/gBWMh)
 - [AutoReport — reporte diario a Sheets/Slack ($24)](https://payhip.com/b/IP0Mb)
 
