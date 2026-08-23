@@ -45,14 +45,19 @@ Sitio premium, responsive, con menú / reservas / contacto. Precio solo si te in
 - [Dashboard Starter — plantilla full-stack React + FastAPI ($19)](https://payhip.com/b/gBWMh)
 - [AutoReport — reporte diario a Sheets/Slack ($24)](https://payhip.com/b/IP0Mb)
 
+
 ## 📦 Reto #100Días — Proyectos por stack demandado
+
 - **python-cli** — [ver repo](https://github.com/Holfkings/day-001-python-cli)
 - **flask-api** — [ver repo](https://github.com/Holfkings/day-002-flask-api)
 - **react-ui** — [ver repo](https://github.com/Holfkings/day-003-react-ui)
 - **django-web** — [ver repo](https://github.com/Holfkings/day-004-django-web)
 - **webscraper** — [ver repo](https://github.com/Holfkings/day-005-webscraper)
+- **automation** — [ver repo](https://github.com/Holfkings/day-007-automation)
+- **fastapi** — [ver repo](https://github.com/Holfkings/day-008-fastapi)
+- **landing** — [ver repo](https://github.com/Holfkings/day-009-landing)
 
-_Mejoro mi stack según lo que piden las propuestas reales (Python, React, Django, APIs, automatización)._
+_Mejoro mi stack según lo que piden las propuestas reales (Python, React, Django, APIs, automatización, bots)._
 
 ## 📫 ¿Hablamos?
 - LinkedIn: [holfkings-arenas-b820aa361](https://www.linkedin.com/in/holfkings-arenas-b820aa361/)
