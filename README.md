@@ -46,6 +46,7 @@ Sitio premium, responsive, con menú / reservas / contacto. Precio solo si te in
 - [AutoReport — reporte diario a Sheets/Slack ($24)](https://payhip.com/b/IP0Mb)
 
 
+
 ## 📦 Reto #100Días — Proyectos por stack demandado
 
 - **python-cli** — [ver repo](https://github.com/Holfkings/day-001-python-cli)
@@ -56,6 +57,8 @@ Sitio premium, responsive, con menú / reservas / contacto. Precio solo si te in
 - **automation** — [ver repo](https://github.com/Holfkings/day-007-automation)
 - **fastapi** — [ver repo](https://github.com/Holfkings/day-008-fastapi)
 - **landing** — [ver repo](https://github.com/Holfkings/day-009-landing)
+- **data-viz** — [ver repo](https://github.com/Holfkings/day-010-data-viz)
+- **python-cli** — [ver repo](https://github.com/Holfkings/day-011-python-cli)
 
 _Mejoro mi stack según lo que piden las propuestas reales (Python, React, Django, APIs, automatización, bots)._
 
