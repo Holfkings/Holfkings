@@ -47,6 +47,7 @@ Sitio premium, responsive, con menú / reservas / contacto. Precio solo si te in
 
 
 
+
 ## 📦 Reto #100Días — Proyectos por stack demandado
 
 - **python-cli** — [ver repo](https://github.com/Holfkings/day-001-python-cli)
@@ -54,6 +55,7 @@ Sitio premium, responsive, con menú / reservas / contacto. Precio solo si te in
 - **react-ui** — [ver repo](https://github.com/Holfkings/day-003-react-ui)
 - **django-web** — [ver repo](https://github.com/Holfkings/day-004-django-web)
 - **webscraper** — [ver repo](https://github.com/Holfkings/day-005-webscraper)
+- **telegram-bot** — [ver repo](https://github.com/Holfkings/day-006-telegram-bot)
 - **automation** — [ver repo](https://github.com/Holfkings/day-007-automation)
 - **fastapi** — [ver repo](https://github.com/Holfkings/day-008-fastapi)
 - **landing** — [ver repo](https://github.com/Holfkings/day-009-landing)
