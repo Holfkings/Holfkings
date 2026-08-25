@@ -48,6 +48,7 @@ Sitio premium, responsive, con menú / reservas / contacto. Precio solo si te in
 
 
 
+
 ## 📦 Reto #100Días — Proyectos por stack demandado
 
 - **python-cli** — [ver repo](https://github.com/Holfkings/day-001-python-cli)
