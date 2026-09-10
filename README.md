@@ -1,75 +1,116 @@
-# Holfkings Arenas 👋 Desarrollador Web & Python Freelance
+<!-- Holfkings Arenas — Perfil profesional -->
 
-> Sitios web premium en **HTML/CSS/JS**, **WordPress** y **apps Python/Django/React**.
-> De Cúcuta, Colombia 🇨🇴 para el mundo.
+<div align="center">
 
-¿Buscas una página web que se vea profesional, cargue rápido y convierta visitas en clientes? ¿O una app web / API en Django o Python? Ese es mi trabajo.
+<!-- Hero visual con borde dorado -->
+<div style="border: 2px solid #e8a849; border-radius: 16px; padding: 40px 20px; background: #0c0c0c; margin: 20px 0;">
 
-## 🚀 Lo que hago (para empresas y emprendedores)
+# Holfkings Arenas
+### Desarrollador Web & Python Freelance
 
-- **Apps web full-stack** en Django + React (CRUD, auth, dashboards, APIs REST).
-- **APIs y automatizaciones** en Python (Flask, FastAPI): scraping, procesamiento de datos, reportes automáticos.
-- **Sitios web a medida** (HTML/CSS/JS limpio, WordPress/WooCommerce).
-- **Integraciones de pago** (Stripe, webhooks, suscripciones).
-- **SEO técnico** real: datos estructurados, Open Graph, sitemap, Core Web Vitals.
-- **Rediseño** de sitios en Wix/plataformas cerradas para recuperar el control.
+<p align="center" style="color: #e8e8e8; margin: 20px 0;">
+  De Cúcuta, Colombia 🇨🇴 — para el mundo
+</p>
 
-## 💼 Proyectos reales
+<p align="center">
+  <a href="#-lo-que-hago"><img src="https://img.shields.io/badge/Lo_que_hago-ff6b35?style=for-the-badge&logo=target&logoColor=white" alt="Lo que hago"></a>
+  <a href="#-proyectos"><img src="https://img.shields.io/badge/Proyectos-e8a849?style=for-the-badge&logo=folder&logoColor=black" alt="Proyectos"></a>
+  <a href="#-reto-100días"><img src="https://img.shields.io/badge/Reto_100Días-9b59b6?style=for-the-badge&logo=fire&logoColor=white" alt="Reto 100Días"></a>
+  <a href="#-contacto"><img src="https://img.shields.io/badge/Contacto-2ecc71?style=for-the-badge&logo=mail&logoColor=white" alt="Contacto"></a>
+</p>
 
-### InvControl — App web de inventario (Django)
-App full-stack con auth, dashboard de métricas y trazabilidad de stock.
-[Ver repo →](https://github.com/Holfkings/day-004-django-web)
+</div>
 
-### Demo: Paid Tier Wiring (Stripe + RevenueCat)
-Prototipo funcional de webhook de pago y reconciliación de suscripciones.
-[Ver repo →](https://github.com/Holfkings/demo-paid-tier)
+<p align="center" style="margin-top: 24px;">
+  <img src="https://img.shields.io/badge/Desarrollo_Web-premium-ffd700?style=for-the-badge&logo=code&logoColor=black&colorA=black&colorB=ffd700" alt="Desarrollo Web Premium">
+  <img src="https://img.shields.io/badge/Python-Django%20%7C%20Flask%20%7C%20FastAPI-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Freelance-Colombia-2C3E50?style=for-the-badge&logo=-&logoColor=white" alt="Freelance Colombia">
+</p>
+
+</div>
+
+---
+
+## ⚡ Lo que hago
+
+<div align="center">
+
+| Área | Tecnologías | Entregable |
+|------|-------------|------------|
+| **Apps web full-stack** | Django + React | CRUD, auth, dashboards, APIs REST |
+| **APIs y automatizaciones** | Flask, FastAPI, Python | Scraping, reportes automáticos, procesamiento de datos |
+| **Sitios web premium** | HTML/CSS/JS puro, WordPress/WooCommerce | Sitios rápidos, con SEO técnico y diseño de impacto |
+| **SEO técnico real** | Datos estructurados, Open Graph, sitemap, Core Web Vitals | Sitios que se indexan y convierten |
+| **Rediseño desde Wix** | Migración a HTML/CSS/JS o Django | Control total sobre tu web, sin plataformas cerradas |
+
+</div>
+
+---
+
+## 💼 Proyectos
 
 ### Portafolio personal
-Sitio premium en HTML/CSS/JS, responsive y animado.
-[Ver sitio →](https://holfkings.github.io/portafolio-site/)
+Sitio premium en HTML/CSS/JS, responsive y animado. Diseño minimalista con impacto de primera vista.
+
+🔗 **[Ver sitio en vivo →](https://holfkings.github.io/portafolio-site/)**
 
 ### CEGESAN — Institución Educativa
-Sitio institucional migrado de Wix con SEO técnico.
-[Ver sitio →](https://holfkings.github.io/cegesan-site/)
+Sitio institucional migrado de Wix con SEO técnico completo.
 
-### Auditoría Web Gratuita
-Landing de captación de leads enviados a WhatsApp.
-[Probar →](https://holfkings.github.io/auditoria-web/)
+🔗 **[Ver sitio →](https://holfkings.github.io/cegesan-site/)**
 
-`HTML5` · `CSS3` · `JavaScript` · `Python` · `Django` · `Flask` · `FastAPI` · `React` · `SQLite` · `PostgreSQL` · `Git` · `SEO`
+### Lista de tareas en Python
+App de consola con CRUD completo: ver, agregar y eliminar tareas con menú interactivo.
 
-## 🌐 Webs para negocios sin página
-¿Tienes un negocio y aún no estás en internet? Te hago una DEMO gratis de cómo quedaría tu sitio. Ejemplo real (restaurante):
-[Ver demo en vivo →](https://holfkings.github.io/web-demo-restaurante/)
-Sitio premium, responsive, con menú / reservas / contacto. Precio solo si te interesa.
+🔗 **[Ver repo →](https://github.com/Holfkings/lista-de-tareas-python)**
+
+---
+
+<!-- RETO 100DÍAS — SECCIÓN DINÁMICA -->
+<!-- Esta sección se actualiza automáticamente con cada día publicado del reto -->
+
+## 📦 Reto #100Días
+
+> Cada día es un proyecto real con código funcional + README explicativo.
+> No repos vacíos: portafolio tangible construido día a día.
+
+Actualmente en **día 0/100** — próximo día por definir.
+
+<!-- SECCIÓN DINÁMICA: se actualiza automáticamente con cada día publicado -->
+
+---
+
+## 🌐 ¿Tienes un negocio sin página web?
+
+Te hago una **demo gratis** de cómo quedaría tu sitio. Sitio premium, responsive, con menú / reservas / contacto.
+
 - [Dashboard Starter — plantilla full-stack React + FastAPI ($19)](https://payhip.com/b/gBWMh)
 - [AutoReport — reporte diario a Sheets/Slack ($24)](https://payhip.com/b/IP0Mb)
 
+---
 
+## 📫 Contacto
 
-
-
-## 📦 Reto #100Días — Proyectos por stack demandado
-
-- **python-cli** — [ver repo](https://github.com/Holfkings/day-001-python-cli)
-- **flask-api** — [ver repo](https://github.com/Holfkings/day-002-flask-api)
-- **react-ui** — [ver repo](https://github.com/Holfkings/day-003-react-ui)
-- **django-web** — [ver repo](https://github.com/Holfkings/day-004-django-web)
-- **webscraper** — [ver repo](https://github.com/Holfkings/day-005-webscraper)
-- **telegram-bot** — [ver repo](https://github.com/Holfkings/day-006-telegram-bot)
-- **automation** — [ver repo](https://github.com/Holfkings/day-007-automation)
-- **fastapi** — [ver repo](https://github.com/Holfkings/day-008-fastapi)
-- **landing** — [ver repo](https://github.com/Holfkings/day-009-landing)
-- **data-viz** — [ver repo](https://github.com/Holfkings/day-010-data-viz)
-- **python-cli** — [ver repo](https://github.com/Holfkings/day-011-python-cli)
-
-_Mejoro mi stack según lo que piden las propuestas reales (Python, React, Django, APIs, automatización, bots)._
-
-## 📫 ¿Hablamos?
-- LinkedIn: [holfkings-arenas-b820aa361](https://www.linkedin.com/in/holfkings-arenas-b820aa361/)
-- GitHub: [@Holfkings](https://github.com/Holfkings)
-- Portafolio: [holfkings.github.io/portafolio-site](https://holfkings.github.io/portafolio-site/)
-- Email: holfkings15@gmail.com
+| Canal | Enlace |
+|-------|--------|
+| **WhatsApp** | [+57 315 557 6332](https://wa.me/573155576332) |
+| **Email** | holfkings15@gmail.com |
+| **Portafolio** | [holfkings.github.io/portafolio-site](https://holfkings.github.io/portafolio-site/) |
+| **GitHub** | [@Holfkings](https://github.com/Holfkings) |
 
 ---
-⚡ Disponible para nuevos proyectos freelance (Django, React, APIs, automatización). Precios justos y entrega rápida.
+
+<div align="center">
+
+**Disponible para nuevos proyectos freelance** — Django, React, APIs, automatización.
+Precios justos. Entrega rápida. Diseño que se ve profesional desde el primer minuto.
+
+<p align="center" style="margin-top: 16px;">
+  <img src="https://img.shields.io/badge/Disponible-%F0%9F%9A%80-verde?style=flat&logo=ready&logoColor=white&colorA=black&colorB=2ecc71" alt="Disponible">
+</p>
+
+<p align="center" style="color: #888; font-size: 0.85em; margin-top: 32px;">
+  Hecho con 💛 y código limpio — Holfkings Arenas © 2026
+</p>
+
+</div>
