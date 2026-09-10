@@ -89,6 +89,20 @@ Te hago una **demo gratis** de cómo quedaría tu sitio. Sitio premium, responsi
 
 ---
 
+## `📦 Reto #100Días — Proyectos por stack demandado`
+
+> Cada dia es un proyecto real con codigo funcional + README explicativo.
+> No repos vacíos: portafolio tangible construido dia a dia.
+> **Autor:** [@Holfkings](https://github.com/Holfkings)
+
+Las tecnologias rotan segun lo que demandan las propuestas reales: Python, React, Django, APIs, automatizacion, bots, scraping, landing pages, visualizacion de datos.
+
+- ### [day-001](https://github.com/Holfkings/day-001-hola)  —  `hola`
+- ### [day-001](https://github.com/Holfkings/day-001-k8s-deployer)  —  `k8s-deployer`
+
+_*Mejoro mi stack segun lo que piden las propuestas reales.*_
+
+
 ## 📫 Contacto
 
 | Canal | Enlace |
