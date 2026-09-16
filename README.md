@@ -6,7 +6,7 @@
 <div style="border: 2px solid #e8a849; border-radius: 16px; padding: 40px 20px; background: #0c0c0c; margin: 20px 0;">
 
 # Holfkings Arenas
-### Desarrollador Web & Python Freelance
+### Desarrollador Python & Freelance
 
 <p align="center" style="color: #e8e8e8; margin: 20px 0;">
   De Cúcuta, Colombia 🇨🇴 — para el mundo
@@ -22,9 +22,10 @@
 </div>
 
 <p align="center" style="margin-top: 24px;">
-  <img src="https://img.shields.io/badge/Desarrollo_Web-premium-ffd700?style=for-the-badge&logo=code&logoColor=black&colorA=black&colorB=ffd700" alt="Desarrollo Web Premium">
-  <img src="https://img.shields.io/badge/Python-Django%20%7C%20Flask%20%7C%20FastAPI-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Freelance-Colombia-2C3E50?style=for-the-badge&logo=-&logoColor=white" alt="Freelance Colombia">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/SQL-SQLite-003B57?style=for-the-badge&logo=database&logoColor=white" alt="SQLite">
+  <img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/HTML_CSS-JS-F7DF1E?style=for-the-badge&logo=css3&logoColor=black" alt="HTML/CSS/JS">
 </p>
 
 </div>
@@ -37,11 +38,11 @@
 
 | Área | Tecnologías | Entregable |
 |------|-------------|------------|
-| **Apps web full-stack** | Django + React | CRUD, auth, dashboards, APIs REST |
-| **APIs y automatizaciones** | Flask, FastAPI, Python | Scraping, reportes automáticos, procesamiento de datos |
-| **Sitios web premium** | HTML/CSS/JS puro, WordPress/WooCommerce | Sitios rápidos, con SEO técnico y diseño de impacto |
-| **SEO técnico real** | Datos estructurados, Open Graph, sitemap, Core Web Vitals | Sitios que se indexan y convierten |
-| **Rediseño desde Wix** | Migración a HTML/CSS/JS o Django | Control total sobre tu web, sin plataformas cerradas |
+| **Automatización y scripts** | Python, CLI, SQLite | Herramientas que resuelven tareas repetitivas: scraping, reportes, procesamiento de datos |
+| **Apps y herramientas CLI** | Python nativo, SQLite, argparse | Programas de línea de comandos funcionales, con tests y documentación |
+| **Sitios web front-end** | HTML, CSS, JavaScript | Páginas responsivas, limpias, con diseño atento — sin depender de frameworks pesados |
+| **Bases de datos** | SQLite | Modelado, consultas, persistencia en apps y herramientas personalizadas |
+| **GitHub y código limpio** | Git, GitHub, pruebas | Repos públicos con código real, README y tests que demuestran cómo trabajo |
 
 </div>
 
@@ -54,54 +55,36 @@ Sitio premium en HTML/CSS/JS, responsive y animado. Diseño minimalista con impa
 
 🔗 **[Ver sitio en vivo →](https://holfkings.github.io/portafolio-site/)**
 
-### CEGESAN — Institución Educativa
-Sitio institucional migrado de Wix con SEO técnico completo.
-
-🔗 **[Ver sitio →](https://holfkings.github.io/cegesan-site/)**
-
 ### Lista de tareas en Python
 App de consola con CRUD completo: ver, agregar y eliminar tareas con menú interactivo.
 
 🔗 **[Ver repo →](https://github.com/Holfkings/lista-de-tareas-python)**
 
+### Habit Tracker CLI — Día 003 del reto
+Sistema de seguimiento de hábitos por línea de comandos. Categorías, hábitos, logs diarios, estadísticas (tasa 7d/30d), streaks. Python + SQLite, sin dependencias, con tests.
+
+🔗 **[Ver repo →](https://github.com/Holfkings/day-003-habit-tracker)**
+
 ---
 
 <!-- RETO 100DÍAS — SECCIÓN DINÁMICA -->
-<!-- Esta sección se actualiza automáticamente con cada día publicado del reto -->
 
 ## 📦 Reto #100Días
 
 > Cada día es un proyecto real con código funcional + README explicativo.
 > No repos vacíos: portafolio tangible construido día a día.
 
-Actualmente en **día 0/100** — próximo día por definir.
+Actualmente en **día 3/100** — tres proyectos publicados.
+
+| Día | Repo | Qué hace |
+|-----|------|----------|
+| **001** | [day-001-k8s-deployer](https://github.com/Holfkings/day-001-k8s-deployer) | Generador de manifests K8s desde YAML simplificado (.deploy). 18 tests. |
+| **002** | [day-002-notes-cli](https://github.com/Holfkings/day-002-notes-cli) | Sistema de notas CLI con SQLite, etiquetas y búsqueda. 24 tests. |
+| **003** | [day-003-habit-tracker](https://github.com/Holfkings/day-003-habit-tracker) | Habit Tracker CLI con SQLite, logs diarios, estadísticas y streaks. 6 tests. |
 
 <!-- SECCIÓN DINÁMICA: se actualiza automáticamente con cada día publicado -->
 
 ---
-
-## 🌐 ¿Tienes un negocio sin página web?
-
-Te hago una **demo gratis** de cómo quedaría tu sitio. Sitio premium, responsive, con menú / reservas / contacto.
-
-- [Dashboard Starter — plantilla full-stack React + FastAPI ($19)](https://payhip.com/b/gBWMh)
-- [AutoReport — reporte diario a Sheets/Slack ($24)](https://payhip.com/b/IP0Mb)
-
----
-
-## `📦 Reto #100Días — Proyectos por stack demandado`
-
-> Cada dia es un proyecto real con codigo funcional + README explicativo.
-> No repos vacíos: portafolio tangible construido dia a dia.
-> **Autor:** [@Holfkings](https://github.com/Holfkings)
-
-Las tecnologias rotan segun lo que demandan las propuestas reales: Python, React, Django, APIs, automatizacion, bots, scraping, landing pages, visualizacion de datos.
-
-- ### [day-001](https://github.com/Holfkings/day-001-hola)  —  `hola`
-- ### [day-001](https://github.com/Holfkings/day-001-k8s-deployer)  —  `k8s-deployer`
-
-_*Mejoro mi stack segun lo que piden las propuestas reales.*_
-
 
 ## 📫 Contacto
 
@@ -116,8 +99,7 @@ _*Mejoro mi stack segun lo que piden las propuestas reales.*_
 
 <div align="center">
 
-**Disponible para nuevos proyectos freelance** — Django, React, APIs, automatización.
-Precios justos. Entrega rápida. Diseño que se ve profesional desde el primer minuto.
+**Desarrollo Python y herramientas prácticas** — scripts, automatizaciones, apps CLI y sitios web con código limpio.
 
 <p align="center" style="margin-top: 16px;">
   <img src="https://img.shields.io/badge/Disponible-%F0%9F%9A%80-verde?style=flat&logo=ready&logoColor=white&colorA=black&colorB=2ecc71" alt="Disponible">
