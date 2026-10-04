@@ -130,6 +130,24 @@ Generates production-ready Kubernetes manifests from simplified YAML config.
 
 ---
 
+## `📦 Reto #100Días — Proyectos por stack demandado`
+
+> Cada dia es un proyecto real con codigo funcional + README explicativo.
+> No repos vacíos: portafolio tangible construido dia a dia.
+> **Autor:** [@Holfkings](https://github.com/Holfkings)
+
+Las tecnologias rotan segun lo que demandan las propuestas reales: Python, React, Django, APIs, automatizacion, bots, scraping, landing pages, visualizacion de datos.
+
+- ### [day-001](https://github.com/Holfkings/day-001-hola)  —  `hola`
+- ### [day-001](https://github.com/Holfkings/day-001-k8s-deployer)  —  `k8s-deployer`
+- ### [day-002](https://github.com/Holfkings/day-002-notes-cli)  —  `notes-cli`
+- ### [day-003](https://github.com/Holfkings/day-003-habit-tracker)  —  `habit-tracker`
+- ### [day-004](https://github.com/Holfkings/day-004-trading-professional)  —  `trading-professional`
+- ### [day-006](https://github.com/Holfkings/day-006-inventario-cli)  —  `inventario-cli`
+
+_*Mejoro mi stack segun lo que piden las propuestas reales.*_
+
+
 ## 📫 Contact
 
 <div align="center">
