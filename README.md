@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🐍 Holfkings — Python Developer & Freelance
+# 🐍 Holfkings — Python Developer & Automation
 
-### CLI tools · Automation · Web front-end · Clean code
+### CLI · Automation · SQLite · Clean code
 
 <p align="center">
   <a href="https://github.com/Holfkings" target="_blank">
@@ -19,7 +19,6 @@
   <img src="https://img.shields.io/badge/HTML_CSS-JS-F7DF1E?style=flat&logo=css3&logoColor=black" alt="HTML/CSS/JS">
   <img src="https://img.shields.io/badge/GitHub-24292e?style=flat&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/Git-FFEB3B?style=flat&logo=git&logoColor=black" alt="Git">
-  <img src="https://img.shields.io/badge/CLI-Terminal-grey?style=flat&logo=gnubash&logoColor=white" alt="CLI">
 </p>
 
 </div>
@@ -32,121 +31,65 @@
 
 | Area | Technologies | What I Deliver |
 |------|-------------|----------------|
-| **🤖 Automation & Scripts** | Python, CLI, SQLite | Tools that solve repetitive tasks: scraping, reports, data processing |
-| **🛠️ CLI Apps & Tools** | Python stdlib, SQLite, argparse | Functional command-line programs with tests and documentation |
-| **🌐 Front-end Websites** | HTML, CSS, JavaScript | Responsive, clean pages with thoughtful design — no heavy frameworks |
-| **🗄️ Databases** | SQLite | Modeling, queries, persistence in custom apps and tools |
-| **✅ GitHub & Clean Code** | Git, GitHub, tests | Public repos with real code, README, and tests that show how I work |
+| **🤖 Automation & Scripts** | Python, CLI, SQLite | Tools that solve repetitive tasks: reports, data processing, file organisation |
+| **🗄️ Dashboards & Apps** | Python + SQLite | Practical web apps and data dashboards, quick to build and cheap to run |
+| **🌐 Static Websites** | HTML, CSS, JavaScript | Responsive pages for portfolios and small sites |
+| **🧰 Freelance Services** | WordPress, chatbots, maintenance | Landing pages, corporative sites, WooCommerce, Telegram / WhatsApp bots |
 
 </div>
 
 ---
 
-## 💼 Featured Projects
+## 📦 Featured Projects
 
-### 🎨 Personal Portfolio
-Premium HTML/CSS/JS site, responsive and animated. Minimalist design with strong first impression.
+### 🎨 Poke Explorer — API-driven web app
+Reference Flask app: connect → fetch → persist → display. Shows the pattern for any third-party API integration.
+| Detail | Info |
+|--------|------|
+| **Stack** | Python, Flask, SQLite |
+| **Repo** | [github.com/Holfkings/poke-explorer](https://github.com/Holfkings/poke-explorer) |
 
+### 🛒 Tienda Tech — FastAPI + SQLite
+Online store of tech accessories. FastAPI + SQLite, single service, no CORS in production.
+| Detail | Info |
+|--------|------|
+| **Stack** | Python, FastAPI, SQLite, JWT |
+| **Repo** | [github.com/Holfkings/tienda-tech](https://github.com/Holfkings/tienda-tech) |
+
+### 🧥 Jacket Masters — FastAPI + SQLite + Docker
+Landing page for puffer jackets with backend and deployment to Railway.
+| Detail | Info |
+|--------|------|
+| **Stack** | Python, FastAPI, SQLite, Docker |
+| **Repo** | [github.com/Holfkings/jacket-masters](https://github.com/Holfkings/jacket-masters) |
+
+### 🏫 CEGESAN Site — Institutional website
+Official site of the CEGESAN educational institution. HTML/CSS/JS, SEO-ready, responsive.
+| Detail | Info |
+|--------|------|
+| **Live** | [cegesan.edu.co](https://www.cegesan.edu.co/) |
+| **Repo** | [github.com/Holfkings/cegesan-site](https://github.com/Holfkings/cegesan-site) |
+
+### 🚀 Portfolio Site — Holfkings
+Personal portfolio, premium dark theme, responsive, with services, projects and contact.
 | Detail | Info |
 |--------|------|
 | **Live** | [holfkings.github.io/portafolio-site](https://holfkings.github.io/portafolio-site/) |
-| **Stack** | HTML, CSS, JS |
 | **Repo** | [github.com/Holfkings/portafolio-site](https://github.com/Holfkings/portafolio-site) |
 
----
-
-### 📝 Task List in Python
-Console app with full CRUD: view, add, and remove tasks. Tasks persist in JSON file.
-
+### 📊 Data Dashboard
+Minimal Flask + SQLite dashboard to upload, view and export data. CSV / Excel import, JSON API.
 | Detail | Info |
 |--------|------|
-| **Stack** | Python 3, json, os (stdlib only) |
-| **Features** | Add, view, delete, persistence |
-| **Repo** | [github.com/Holfkings/lista-de-tareas-python](https://github.com/Holfkings/lista-de-tareas-python) |
+| **Repo** | [github.com/Holfkings/data-dashboard](https://github.com/Holfkings/data-dashboard) |
 
----
-
-### 📊 Habit Tracker CLI — Day 003
-Command-line habit tracking system. Categories, habits, daily logs, 7d/30d statistics, streaks.
-
+### ⚙️ Automation Toolkit
+Python scripts for common automatic tasks: CSV cleaning, file organisation, scheduled runners.
 | Detail | Info |
 |--------|------|
-| **Stack** | Python 3, SQLite (stdlib only) |
-| **Tests** | 6 automated tests |
-| **Repo** | [github.com/Holfkings/day-003-habit-tracker](https://github.com/Holfkings/day-003-habit-tracker) |
+| **Repo** | [github.com/Holfkings/automation-toolkit](https://github.com/Holfkings/automation-toolkit) |
 
 ---
-
-### 📋 Notes CLI — Day 002
-CLI notes system with tags, search, and SQLite storage.
-
-| Detail | Info |
-|--------|------|
-| **Stack** | Python 3, SQLite (stdlib only) |
-| **Tests** | 24 automated tests |
-| **Repo** | [github.com/Holfkings/day-002-notes-cli](https://github.com/Holfkings/day-002-notes-cli) |
-
----
-
-### ☸️ K8s Deploy Generator — Day 001
-Generates production-ready Kubernetes manifests from simplified YAML config.
-
-| Detail | Info |
-|--------|------|
-| **Stack** | Python 3.14+ (stdlib only, zero dependencies) |
-| **Tests** | 18 automated tests |
-| **Repo** | [github.com/Holfkings/day-001-k8s-deployer](https://github.com/Holfkings/day-001-k8s-deployer) |
-
----
-
-## 📦 #100Days Challenge
-
-> Each day = a real project with functional code + explanatory README. No empty repos — tangible portfolio built day by day.
-
-<div align="center">
-
-| Day | Project | Description | Status |
-|-----|---------|-------------|--------|
-| **001** | [K8s Deploy Generator](https://github.com/Holfkings/day-001-k8s-deployer) | Kubernetes manifests from YAML | ✅ Complete |
-| **002** | [Notes CLI](https://github.com/Holfkings/day-002-notes-cli) | Notes system with SQLite + tags | ✅ Complete |
-| **003** | [Habit Tracker CLI](https://github.com/Holfkings/day-003-habit-tracker) | Habit tracking with stats + streaks | ✅ Complete |
-
-</div>
-
-**Progress:** Day 3 / 100
-
----
-
-## 📊 Portfolio Stats
-
-| Metric | Count |
-|--------|-------|
-| **Public repos** | 9+ |
-| **Total tests written** | 48+ |
-| **Python projects** | 6+ |
-| **Web projects** | 2+ |
-| **Lines of Python** | 1,900+ |
-| **External dependencies** | 0 (stdlib only) |
-
----
-
-## `📦 Reto #100Días — Proyectos por stack demandado`
-
-> Cada dia es un proyecto real con codigo funcional + README explicativo.
-> No repos vacíos: portafolio tangible construido dia a dia.
-> **Autor:** [@Holfkings](https://github.com/Holfkings)
-
-Las tecnologias rotan segun lo que demandan las propuestas reales: Python, React, Django, APIs, automatizacion, bots, scraping, landing pages, visualizacion de datos.
-
-- ### [day-001](https://github.com/Holfkings/day-001-hola)  —  `hola`
-- ### [day-001](https://github.com/Holfkings/day-001-k8s-deployer)  —  `k8s-deployer`
-- ### [day-002](https://github.com/Holfkings/day-002-notes-cli)  —  `notes-cli`
-- ### [day-003](https://github.com/Holfkings/day-003-habit-tracker)  —  `habit-tracker`
-- ### [day-004](https://github.com/Holfkings/day-004-trading-professional)  —  `trading-professional`
-- ### [day-006](https://github.com/Holfkings/day-006-inventario-cli)  —  `inventario-cli`
-
-_*Mejoro mi stack segun lo que piden las propuestas reales.*_
-
 
 ## 📫 Contact
 
@@ -165,7 +108,7 @@ _*Mejoro mi stack segun lo que piden las propuestas reales.*_
 
 <div align="center">
 
-### **Python development & practical tools**
+### Python development & practical tools
 Scripts, automations, CLI apps, and websites — all with clean, tested code.
 
 <p align="center" style="margin-top: 16px;">
